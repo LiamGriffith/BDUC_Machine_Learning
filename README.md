@@ -1,6 +1,6 @@
 # Machine learning based analysis of Bleeding Disorder of Unknown Cause patients
 
-![!image error!](roc.png)
+![!image error!](ROC.png)
 
 ## Methodology
 
