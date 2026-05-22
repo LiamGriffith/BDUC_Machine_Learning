@@ -1,1 +1,1 @@
-A Jupyter notebook containing the machine learning analysis used for Mistry et al. 
+A Jupyter notebook containing all code for machine learning analysis of BDUC patients
