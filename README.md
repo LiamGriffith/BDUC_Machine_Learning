@@ -8,6 +8,6 @@ To identify features predictive of BDUC case-control status, we evaluated the pe
 
 Within each model, we employed a nested cross-validation framework using stratified 5-fold cross validated grid search for hyperparameter optimisation. Using the optimal hyperparameter combination, the model was then evaluated using a second stratified 5-fold cross validation, with the optimal classification threshold determined by Youden’s J statistic. After the initial model revealed selected thrombin and ATP-release based assays as the most important features, subsequent models were run using only these features to assess their classification performance and mechanistic importance in BDUC patients.
 
-The code used for machine learning analysis and plot generation can be found in BDUC_Final_Figures.ipynb
+The code used for machine learning analysis and plot generation can be found in BDUC_analysis.ipynb
 
 
